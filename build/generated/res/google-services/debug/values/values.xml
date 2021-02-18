@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">909313424062-2lsuqqtk451fnce43bef81ocf9cph13q.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://advocatediary-a9430.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">909313424062</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRmGqmeRFl327c27e-vfhA9QULy9jgcII</string>
+    <string name="google_app_id" translatable="false">1:909313424062:android:38e175e6ed6a8da5effcef</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRmGqmeRFl327c27e-vfhA9QULy9jgcII</string>
+    <string name="google_storage_bucket" translatable="false">advocatediary-a9430.appspot.com</string>
+    <string name="project_id" translatable="false">advocatediary-a9430</string>
+</resources>

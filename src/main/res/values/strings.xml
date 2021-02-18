@@ -1,0 +1,211 @@
+<resources>
+    <string name="app_name">Advocate Diary</string>
+    <string name="title_activity_main">Advocate Diary</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Advocate</string>
+    <string name="nav_header_subtitle">adv@advocatenote.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="caseType">
+        <item>1STAPL ESI – First Appeal ESI</item>
+        <item>2NDAPL ESI – Second Appeal ESI</item>
+        <item>ACB – Special Case ACB</item>
+        <item>ACB-CR – ACB Closer Report</item>
+        <item>AGRMNT-LC – Agreement</item>
+        <item>APP-IC – Application (IC)</item>
+        <item>APP-IT – Application (IT)</item>
+        <item>APP-ITC – Application (ITC)</item>
+        <item>APPEAL-IC – Appeal (IC)</item>
+        <item>APPEAL-IESO – Appeal (IESO Act)</item>
+        <item>APPEAL-TU – Appeal (TU)</item>
+        <item>APPLN-ESI – Application (ESI)</item>
+        <item>APPR-LC – Approval</item>
+        <item>ATRO – Special Case (ATRO)</item>
+        <item>BIR-LC – Misc. Application (BIR)</item>
+        <item>BIRACT – Act (BIR)</item>
+        <item>BORA – Board Reference Appeal</item>
+        <item>CBI-CC – CBI Criminal Case</item>
+        <item>CBI-CR – CBI Closure Report</item>
+        <item>CBI-CRA – CBI Criminal Appeal</item>
+        <item>CBI-CRMA – CBI Criminal Misc. Application</item>
+        <item>CBI-CRREV – CBI Criminal Revision Application</item>
+        <item>CBI-SC – CBI Sessions Case</item>
+        <item>CBI-SPCC – CBI Special Case</item>
+        <item>CC – Criminal Case</item>
+        <item>CC-JUVE – Criminal Case JUVENILE</item>
+        <item>CC-RLY – Criminal Case Railway</item>
+        <item>CFR – Court Fees Reference</item>
+        <item>CHANGE-LC – Application for Illegal Change</item>
+        <item>Civil</item>
+        <item>CMA-DC – Civil Misc. Application – DC</item>
+        <item>CMA-SC – Civil Misc. Application – SR/Civil/Small</item>
+        <item>CMPNT – Complaint</item>
+        <item>COMM-APL – Commercial Appeal</item>
+        <item>COMM-CMA – Commercial Civil Misc. Application</item>
+        <item>COMM-CS – Commercial Civil Suit</item>
+        <item>COMM-EX – Commercial Execution</item>
+        <item>COMM-REWA – Commercial Review Application</item>
+        <item>COMM-TMCS – Commercial Trademark Civil Suit</item>
+        <item>COMP-IT – Complaint IT</item>
+        <item>COMP-ITC – Complaint ITC</item>
+        <item>COMP-LC – Complaint</item>
+        <item>COMP-LCIDAT – Complaint LCIDAT</item>
+        <item>CR-A – Criminal Appeal</item>
+        <item>CR-EN – Criminal Enquiry</item>
+        <item>CR-RA – Criminal Revision Application</item>
+        <item>CRAPP-IC – Criminal Application (IC)</item>
+        <item>CRCMP-LC – Criminal Complaint</item>
+        <item>Criminal</item>
+        <item>CRMA J – Criminal Misc. Application – JMFC</item>
+        <item>CRMA S – Criminal Misc. Application – Sessions</item>
+        <item>CRRA-IC – Criminal Revision Application (IC)</item>
+        <item>CRTENQ-IC – Court of Enquiry (IC)</item>
+        <item>CS-CCC – Civil Suit (CCC)</item>
+        <item>DRCM – Special Case – Drug &amp; Cosm.</item>
+        <item>DST-LC – Distribution</item>
+        <item>ELEC – Special Case – Electricity</item>
+        <item>ELEP – Election Petition</item>
+        <item>EXE-LAR – Execution Petition – LAR</item>
+        <item>EXE-R – Execution Petition – Regular</item>
+        <item>EXE-S – Execution Petition – Special</item>
+        <item>EXE-SM – Execution Petition – Small Cause</item>
+        <item>FSUIT – Family Suit</item>
+        <item>GPID-CC – GPID Criminal Case</item>
+        <item>GPID-CRMA – GPID Criminal Misc. Application</item>
+        <item>GPID-CVC – GPID Civil Case</item>
+        <item>HMP – Hindu Marriage Petition</item>
+        <item>HR – Special Case – Human Rights</item>
+        <item>IESO – I.E.S.O.</item>
+        <item>IESO-LC – Industrial Employee Stand Order</item>
+        <item>INS-P – Insolvency Petition</item>
+        <item>INTER – Interlocutory Applications</item>
+        <item>INTER – Interpretation Applications</item>
+        <item>INTER-A – Interlocutory/Interim Relief Application</item>
+        <item>LAR – Land Acquisition Reference</item>
+        <item>MA – Municipal Appeal</item>
+        <item>MA291 – Misc. Application U/R. 291 Civil Manual</item>
+        <item>MACEX – Mac. Execution Petition</item>
+        <item>MACMA – Mac. Misc. Application</item>
+        <item>MACP – Mac. Petition</item>
+        <item>MACRP – Mac. Review Application</item>
+        <item>MAMISC-LC – M.A. Misc. Application Under Rule</item>
+        <item>MAREV-LC – M.A. Review Application – Under Rule-31</item>
+        <item>MCA – Misc. Civil Appeal</item>
+        <item>MEDAPP-LC – Medical Appeals</item>
+        <item>MISC-LCIDAT – Misc. Application LCIDAT – Under Rule 26A</item>
+        <item>MISC26A-LC – Misc. Application – Under Rule 26A</item>
+        <item>MISCAPP ESI – Misc. Application ESI</item>
+        <item>MISCAPP-IC – Misc. Application (IC)</item>
+        <item>MISCAPP-IT – Misc. Application (IT)</item>
+        <item>MISCAPP-ITC – Misc. Application (ITC)</item>
+        <item>MSCAPP – Misc. Application</item>
+        <item>MTA – Municipal Tax Appeal</item>
+        <item>MWAPP-LC – M.W. Application</item>
+        <item>MWMISC-LC – M.W. Misc. Application Under Rule</item>
+        <item>NDPS – Special Case – NDPS</item>
+        <item>NIA CR – NIA Closure Report</item>
+        <item>NIA CRMA – NIA Criminal Misc. Application</item>
+        <item>NIA SPC – Special Case – NIA</item>
+        <item>PERM-LC – Permission</item>
+        <item>PMLA – Special Case – PMLA</item>
+        <item>POTA – Special Case – POTA</item>
+        <item>PRCPT – Precept</item>
+        <item>PRELIM-A – Preliminary Issue Application</item>
+        <item>PREPNT – Preliminary Point</item>
+        <item>PRMSN IT – Permission Application IT</item>
+        <item>PRMSN-ITC – Permission Application (ITC)</item>
+        <item>PSCO – Special Case – PCSO</item>
+        <item>PW-MIS-LC – P.W. Misc. Application Under Rule</item>
+        <item>PWACT – P.W. Act</item>
+        <item>PWAPP-LC – P.W. Application</item>
+        <item>RCA – Regular Civil Appeal</item>
+        <item>RCS – Regular Civil Suit</item>
+        <item>RECO33C1-LC – Recovery 33C (1)</item>
+        <item>RECO33C2-LC – Recovery 33C (2)</item>
+        <item>REF IC – Reference IC</item>
+        <item>REF-IC1 – Reference (IC)</item>
+        <item>REF-IT – Reference IT</item>
+        <item>REF-ITC – Reference ITC</item>
+        <item>REF-LCIDAT – Reference LCIDAT</item>
+        <item>REF-TU – Reference TU</item>
+        <item>REFER-D-LC – Reference D</item>
+        <item>REFER-LC – B.I.R. Reference</item>
+        <item>REFER-T-LC – Reference T</item>
+        <item>REV-LCIDAT – Review Application LCIDAT Under Rule 31</item>
+        <item>REV31-LC – Review Application Under Rule 31</item>
+        <item>REVIEW-ESI – Review Application (ESI)</item>
+        <item>REVIEW-IC – Review Application (IC)</item>
+        <item>REVIEW-IT – Review Application (IT)</item>
+        <item>REVIEW-ITC – Review Application (ITC)</item>
+        <item>REWA – Review Application</item>
+        <item>RPD CC – RPD Criminal Case</item>
+        <item>RPD CMA – RPD Civil Misc. Application</item>
+        <item>RPD CRMA – RPD Criminal Misc. Case</item>
+        <item>RVSN IC – Revision Application IC</item>
+        <item>SC – Sessions Case</item>
+        <item>SMC CAPW – Small Cause Civil Appeal Payment of Wages</item>
+        <item>SMC CMP PTN – Small Cause Compensation Petition</item>
+        <item>SMC NTA – Small Cause New Trial Application</item>
+        <item>SMC PSRP – Small Cause – PSRP</item>
+        <item>SMCST – Small Cause Suit</item>
+        <item>SMP – Special Marriage Petition</item>
+        <item>SMRY – Summary</item>
+        <item>SMST R – Summary Suit – Regular</item>
+        <item>SMST S – Summary Suit – Special</item>
+        <item>SPCS – Special Civil Suit</item>
+        <item>SPCS COMP – Special Case – Companies Act</item>
+        <item>SPCS EL – Special Civil Suit – Elec.</item>
+        <item>SRA – Standard Rent Application</item>
+        <item>STAT APP – STAT Appeal</item>
+        <item>STAT MISC – STAT Misc. Application</item>
+        <item>STAT REV – STAT Revision Application</item>
+        <item>STRIKE-LC – Application for Illegal Strike</item>
+        <item>SUB-IC – Submission (IC)</item>
+        <item>TADA – Special Case – TADA</item>
+        <item>TAPP-LC – Application for Termination</item>
+        <item>TMSUIT – Trade Mark Suit</item>
+        <item>TPA – Town Planning Appeal</item>
+        <item>TSUIT – Trust Suit</item>
+        <item>WAQF – WAQF Cases</item>
+        <item>WAQF APL – WAQF Appeal</item>
+        <item>WAQF REF – WAQF Reference</item>
+        <item>WC-FATAL-LC – WC Application Fatal</item>
+        <item>WC-MIS-LC – WC Misc. Application Under Rule</item>
+        <item>WC-NFATAL-L – WC Application Non-Fatal</item>
+    </string-array>
+
+    <string-array name="stageOfCase">
+        <item>Admission/Urgent Hearing</item>
+        <item>Applicants Evidence</item>
+        <item>Case Disposed</item>
+        <item>Closed</item>
+        <item>Disposed</item>
+        <item>Evidence of Applicant</item>
+        <item>Evidence of Defence</item>
+        <item>Evidence of Opponent</item>
+        <item>Evidence of Prosecution</item>
+        <item>Final Arguments</item>
+        <item>Final Hearing</item>
+        <item>Framing of Charge/PLEA</item>
+        <item>Further Statement</item>
+        <item>Hearing</item>
+        <item>Hearing on Application for Evidence</item>
+        <item>Hearing on Injunction Application</item>
+        <item>Hearing on Interim Relief (No Fault Liability)</item>
+        <item>Hearing on Objections</item>
+        <item>ISSUES</item>
+        <item>Judgement</item>
+        <item>Order</item>
+        <item>Order on Interim Hearing</item>
+        <item>Process to Accused</item>
+        <item>Process to Respondents</item>
+        <item>Reply</item>
+        <item>Service of Process</item>
+        <item>Show-Cause Notice to Judgement Debtor</item>
+        <item>Summons - Notice</item>
+        <item>Urgent Hearing</item>
+    </string-array>
+
+</resources>

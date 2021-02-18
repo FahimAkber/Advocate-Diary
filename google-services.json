@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "909313424062",
+    "firebase_url": "https://advocatediary-a9430.firebaseio.com",
+    "project_id": "advocatediary-a9430",
+    "storage_bucket": "advocatediary-a9430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909313424062:android:a9638c94f998bfdaeffcef",
+        "android_client_info": {
+          "package_name": "com.aversoft.advocatediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909313424062-2lsuqqtk451fnce43bef81ocf9cph13q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRmGqmeRFl327c27e-vfhA9QULy9jgcII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909313424062-2lsuqqtk451fnce43bef81ocf9cph13q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909313424062:android:38e175e6ed6a8da5effcef",
+        "android_client_info": {
+          "package_name": "com.latentsoft.advocatenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909313424062-2lsuqqtk451fnce43bef81ocf9cph13q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRmGqmeRFl327c27e-vfhA9QULy9jgcII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909313424062-2lsuqqtk451fnce43bef81ocf9cph13q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

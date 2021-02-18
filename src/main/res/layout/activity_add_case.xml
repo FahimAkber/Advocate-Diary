@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".AddCaseActivity">
+
+    <EditText
+        android:id="@+id/et_add_case_title"
+        android:hint="Case Number"
+        android:textSize="22sp"
+        android:paddingLeft="5dp"
+        android:inputType="text"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/et_add_case_description"
+        android:hint="Description"
+        android:textSize="22sp"
+        android:inputType="text"
+        android:paddingLeft="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/et_add_case_complainant"
+        android:hint="Complainant's Name "
+        android:textSize="22sp"
+        android:paddingLeft="5dp"
+        android:inputType="text"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/et_add_case_defendant"
+        android:hint="Defendant's Name"
+        android:textSize="22sp"
+        android:paddingLeft="5dp"
+        android:inputType="text"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tv_hearing_date"
+        android:layout_width="match_parent"
+        android:hint="Tap to select hearing date"
+        android:textSize="22sp"
+        android:paddingLeft="5dp"
+        android:layout_marginBottom="5dp"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_add_case_save"
+        android:text="Add to diary"
+        android:textSize="22sp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button_bg"
+        android:textColor="#3f6073"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
